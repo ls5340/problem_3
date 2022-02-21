@@ -1,0 +1,12 @@
+---
+title: "ls929"
+author: "Lei"
+output: github_document
+---
+
+## About Me
+- a second-year MRP student interested in r for data science
+
+- love travelling around the world
+
+- love playing sports

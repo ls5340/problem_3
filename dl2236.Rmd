@@ -1,0 +1,10 @@
+---
+title: "dl2236"
+author: "Dongcheng"
+output: github_document
+---
+
+## About Me
+- a second-year master’s student of Management in Hospitality(MMH)
+
+- like traveling, playing basketball, and golfing
