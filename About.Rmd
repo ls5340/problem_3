@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 author: "bhm48, dl2236, ls929"
 output: github_document
 ---

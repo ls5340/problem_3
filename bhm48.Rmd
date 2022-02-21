@@ -1,7 +1,7 @@
 ---
 title: "bhm48"
 author: "Ben"
-output: github_document
+output: html_document
 ---
 
 ## About Me
