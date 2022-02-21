@@ -1,0 +1,21 @@
+---
+title: "How Have You Been"
+date: "2/10/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<b>
+- [dl2236's github account](https://github.com/ls5340/r-collab-.git)
+<br>
+
+<b>
+- [bhm48's github account](https://github.com/ls5340/r-collab-.git)
+<br>
+
+<b>
+- [ls929's github account](https://github.com/ls5340/r-collab-.git)
+<br>
